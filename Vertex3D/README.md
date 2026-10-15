@@ -15,7 +15,7 @@
 
 **Endüstriyel 3D Baskı, CAD Modelleme, Fotogerçekçi Render ve Google Gemini Destekli Yeni Nesil AI Tasarım & Mühendislik Ajansı Web Platformu**
 
-[🌟 Canlı Önizleme](#-canlı-önizleme) • [🚀 Hızlı Başlangıç](#-hızlı-başlangıç) • [🤖 Gemini AI Asistanı](#-gemini-ai-asistanı) • [📐 Akıllı Hesaplayıcı](#-akıllı-maliyet--süre-hesaplayıcı) • [🛠️ Teknoloji Yığını](#%EF%B8%8F-teknoloji-yığını) • [📁 Proje Yapısı](#-proje-dizin-yapısı)
+[🚀 Hızlı Başlangıç](#-hızlı-başlangıç) • [🤖 Gemini AI Asistanı](#-gemini-ai-asistanı) • [📐 Akıllı Hesaplayıcı](#-akıllı-maliyet--süre-hesaplayıcı) • [🛠️ Teknoloji Yığını](#%EF%B8%8F-teknoloji-yığını) • [📁 Proje Yapısı](#-proje-dizin-yapısı)
 
 </div>
 

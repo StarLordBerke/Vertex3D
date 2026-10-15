@@ -26,6 +26,20 @@
 
 Sıradan bir kurumsal web sitesinin ötesinde; **Three.js** ile güçlendirilmiş interaktif 3D modelleme sahneleri, fotogerçekçi render ile tel kafes (wireframe) karşılaştırma kaydırıcıları, gerçek zamanlı bütçe ve süre hesaplama motoru ve doğrudan **Google Gemini** model ailesiyle beslenen akıllı bir **3D Baskı & Malzeme Danışmanı Yapay Zeka Botu** barındırır.
 
+## 🌐 Canlı Web Sitesi & Demo Bağlantıları
+
+Platformu tarayıcınız üzerinden canlı olarak deneyimleyebilir, interaktif haritayı inceleyebilir ve yapay zeka destekli ihbar sistemini test edebilirsiniz.
+
+- 🚀 **Canlı Uygulama (Canlıya Alınmış Hali):** [https://vertex3d.vercel.app/](https://vertex3d.vercel.app/)
+
+---
+
+## 📸 Proje Görselleri ve Arayüz Galerisi
+
+Vertex3d platformunun tüm arayüzleri, renk psikolojisi ve görsel hiyerarşi kurallarına uygun olarak masaüstü, tablet ve mobil cihazlar için özel olarak geliştirilmiştir:
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke/MaviAg/blob/main/img/anasayfa.png" alt="anasayfa" width="1200"/></a>
+
 ---
 
 ## ✨ Temel Özellikler

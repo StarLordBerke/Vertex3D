@@ -38,7 +38,7 @@ Platformu tarayıcınız üzerinden canlı olarak deneyimleyebilir, Vertex AI Bo
 
 Vertex3d platformunun tüm arayüzleri, renk psikolojisi ve görsel hiyerarşi kurallarına uygun olarak masaüstü, tablet ve mobil cihazlar için özel olarak geliştirilmiştir:
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke/MaviAg/blob/main/img/anasayfa.png" alt="anasayfa" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/Vertex3D/blob/main/img/Vertex3D.jpg" alt="anasayfa" width="1200"/></a>
 
 ---
 

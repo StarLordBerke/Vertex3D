@@ -9,7 +9,6 @@
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL_3D-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![Google Gemini API](https://img.shields.io/badge/Google_Gemini-3.8_Flash-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)](https://ai.google.dev/)
 [![Express](https://img.shields.io/badge/Backend-Express_Server-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge)](LICENSE)
 
 <br />
 

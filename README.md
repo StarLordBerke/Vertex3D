@@ -281,7 +281,7 @@ Katkılarınızı memnuniyetle kabul ediyoruz! Bir hata bildirmek veya yeni bir 
 
 ## 📄 Lisans
 
-Bu proje **Apache License 2.0** altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
+Bu proje **MIT License** altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
 
 ---
 

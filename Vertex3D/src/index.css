@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --primary: #2E7DFF;
+    --accent: #00C6FF;
+    --navy: #0B1F44;
+    --dark: #0A0A0A;
+    --light-gray: #C4C8D0;
+  }
+}
+
+.font-handwriting {
+  font-family: 'Caveat', 'Reenie Beanie', cursive;
+}
+
+.bg-grid-pattern {
+  background-size: 40px 40px;
+  background-image: 
+    linear-gradient(to right, rgba(46, 125, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(46, 125, 255, 0.05) 1px, transparent 1px);
+}
+
+.bg-dots-pattern {
+  background-size: 24px 24px;
+  background-image: radial-gradient(rgba(0, 198, 255, 0.15) 1px, transparent 1px);
+}
+
+.glow-blue {
+  box-shadow: 0 0 30px -5px rgba(46, 125, 255, 0.45);
+}
+
+.glow-cyan {
+  box-shadow: 0 0 30px -5px rgba(0, 198, 255, 0.55);
+}
+
+.glow-text-blue {
+  text-shadow: 0 0 24px rgba(46, 125, 255, 0.6);
+}
+
+.glow-text-cyan {
+  text-shadow: 0 0 24px rgba(0, 198, 255, 0.7);
+}
+
+.glass-panel {
+  background: rgba(11, 31, 68, 0.45);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(46, 125, 255, 0.2);
+}
+
+.glass-card {
+  background: linear-gradient(135deg, rgba(11, 31, 68, 0.6) 0%, rgba(10, 10, 10, 0.8) 100%);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(46, 125, 255, 0.18);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glass-card:hover {
+  border-color: rgba(0, 198, 255, 0.5);
+  box-shadow: 0 16px 36px -12px rgba(46, 125, 255, 0.35);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0A0A0A;
+}
+::-webkit-scrollbar-thumb {
+  background: #0B1F44;
+  border-radius: 4px;
+  border: 1px solid rgba(46, 125, 255, 0.3);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #2E7DFF;
+}
+
+/* Soldan Sağa Sürekli Kayan Sponsorlar Animasyonu */
+@keyframes marquee-ltr {
+  0% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+.animate-marquee-ltr {
+  display: flex;
+  width: max-content;
+  animation: marquee-ltr 32s linear infinite;
+}
+
+.animate-marquee-ltr:hover {
+  animation-play-state: paused;
+}

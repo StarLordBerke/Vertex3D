@@ -1,0 +1,6 @@
+{
+  "name": "Vertex 3D - Ideas Into Reality",
+  "description": "3D tasarım, modelleme, görselleştirme ve endüstriyel prototipleme teknolojileri ajansı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

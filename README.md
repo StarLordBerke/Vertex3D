@@ -31,7 +31,7 @@ Sıradan bir kurumsal web sitesinin ötesinde; **Three.js** ile güçlendirilmi�
 Platformu tarayıcınız üzerinden canlı olarak deneyimleyebilir, Vertex AI Bot'u kullanarak 3D baskı süreci ile ilgili detaylı bilgi alabilirsiniz.
 
 - 🚀 **Canlı Uygulama (Canlıya Alınmış Hali):** [https://vertex3d.vercel.app/](https://vertex3d.vercel.app/)
-
+- 🚀 **Vertex 3D Marka Sunumu:** [https://canva.link/j7ecb8weyl7swdo](https://canva.link/j7ecb8weyl7swdo)
 ---
 
 ## 📸 Proje Görselleri ve Arayüz Galerisi
